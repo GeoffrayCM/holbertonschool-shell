@@ -1,2 +1,2 @@
-#!/bin/§bah
-paste - -- | cut -f1
+#!/bin/§bsh
+paste - - | cut -f1
